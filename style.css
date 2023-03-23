@@ -1,0 +1,61 @@
+body{
+    background-image: url(https://i.pinimg.com/originals/5e/6c/1e/5e6c1e999db209b95111dc5e7c4595ae.gif);
+    background-repeat: no-repeat;
+   background-size: cover;
+}
+
+
+h1{
+    color: blanchedalmond;
+    /* margin: 250px;
+    margin-top: 50px; */
+}
+
+
+
+label{
+    display: block;
+   
+    color: blanchedalmond;
+    font-family: fantasy
+    
+   
+    
+}
+
+
+
+p{
+    color: whitesmoke;
+    
+    font-family: fantasy
+    
+}
+
+
+
+input{
+    background: blanchedalmond;
+    color: black;
+   
+    /* width:250px;
+    height: 30px; */
+}
+
+
+button{
+    color: blue;
+    background: aquamarine;
+    margin-top: 10px;
+}
+
+
+
+
+footer{
+    margin-top: 358px;
+    padding: 10px;
+    background-image: linear-gradient(to right, rgb(255, 255, 255), blue, black);
+    color: rgb(0, 0, 0);
+    font-family: fantasy
+}
